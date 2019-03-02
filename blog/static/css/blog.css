@@ -38,6 +38,16 @@ p {
     font-weight: lighter;
 }
 
+.glyphicon {
+    color: #F0544F;
+    padding-top: 30px;
+}
+
+.glyphicon:hover {
+    opacity: .6;
+}
+
+
 .save {
     float: right;
 }
